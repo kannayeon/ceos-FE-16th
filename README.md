@@ -24,11 +24,11 @@
 
 <h3>𝗦𝘁𝘂𝗱𝘆</h3>
 
-| 🗓️ 주차 | 😸 주제 | 📖 스터디 날짜 | 🔗 배포 링크 | 💻 코드 | 💬 리뷰 |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| 🗓️ 주차 | 😸 주제 | 📖 스터디 날짜 | 🔗 배포 | 💻 코드 | 💬 리뷰 |
+|:--:|:-------:|:-----:|:-:|:-:|:-:|
 | 1 | Web Front Basics(HTML/CSS/JS) | 2022년 9월 18일 | [🔗 링크](https://vanilla-todo-16th-kongnayeon.vercel.app/) | [🔗 링크](https://github.com/kongnayeon/vanilla-todo-16th) | [🔗 링크](https://github.com/CEOS-Developers/vanilla-todo-16th/pull/8) |
 | 2 | React Basic & Hooks | 2022년 9월 25일 | [🔗 링크](https://react-todo-16th-kongnayeon.vercel.app/) | [🔗 링크](https://github.com/kongnayeon/react-todo-16th) | [🔗 링크](https://github.com/CEOS-Developers/react-todo-16th/pull/9) |
-| 3 | React Hooks Advanced | 2022년 10월 2일 | [🔗 링크](https://react-messenger-16th-kongnayeon.vercel.app/) | [🔗 링크](https://github.com/kongnayeon/react-messenger-16th) | [🔗 링크](https://github.com/CEOS-Developers/react-messenger-16th/pull/1) [🔗 링크](https://github.com/CEOS-Developers/react-messenger-16th/pull/12 |
+| 3 | React Hooks Advanced | 2022년 10월 2일 | [🔗 링크](https://react-messenger-16th-kongnayeon.vercel.app/) | [🔗 링크](https://github.com/kongnayeon/react-messenger-16th) | [🔗 링크](https://github.com/CEOS-Developers/react-messenger-16th/pull/1) [🔗 링크](https://github.com/CEOS-Developers/react-messenger-16th/pull/12) |
 | 4 | Routing & State Management | 2022년 11월 6일 | [🔗 링크](https://react-messenger2-16th-kongnayeon.vercel.app/) | [🔗 링크]() | [🔗 링크]() |
 | 5 | Next.js & Agile | 2022년 11월 13일 | [🔗 링크](https://next-netflix-16th-pre-folio-front.vercel.app/)| [🔗 링크]() | [🔗 링크]() |
 | 6 | Next.js & SSR | 2022년 11월 20일 | [🔗 링크](https://next-netflix-16th-pre-folio-front.vercel.app/) | [🔗 링크]() | [🔗 링크]() |
